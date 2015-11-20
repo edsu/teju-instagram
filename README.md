@@ -25,3 +25,4 @@ FWIW, I initially tried to use the Instagram API, but you have to create an app 
 
 [Node]: http://nodejs.orgk
 [Python]: http://python.org
+[Teju Cole]: https://en.wikipedia.org/wiki/Teju_Cole
