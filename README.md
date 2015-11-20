@@ -8,13 +8,11 @@ If you want to regenerate teju.csv yourself you will need to:
 
 * install [Node]
 * install [Python]
-* npm install 
-* node\_modules/instagram-screen-scrape/bin/index.js --username _tejucole > teju.json 
-* python json2csv.py
+* `npm install`
+* `node_modules/instagram-screen-scrape/bin/index.js --username _tejucole > teju.json` 
+* `python json2csv.py`
 
-I tried to use the Instagram API, but you have to create an app to authenticate,
-and the app is in the sandbox, so it can't see Teju's public posts. So it was
-easier to scrape the public website in this case.
+FWIW, I initially tried to use the Instagram API, but you have to create an app to authenticate, and the app is in the sandbox, so it can't see Teju's public posts. So it was easier to scrape the public website in this case.
 
 [Node]: http://nodejs.orgk
 [Python]: http://python.org
