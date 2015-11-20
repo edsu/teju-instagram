@@ -4,9 +4,14 @@ This is a small data curation work to extract Teju Cole's public posts
 on Instagram and make them available as a CSV that can be loaded into
 Excel for analysis.
 
-One thing I did was chart Cole's post activity over time:
+## Analysis
+
+One thing that's easy to do once you have the CSV data is generate a chart
+of Cole's activity over time using Google Sheets:
 
 ![posts-per-day](https://raw.githubusercontent.com/edsu/teju-instagram/master/posts-per-day.png)
+
+## Run
 
 If you want to regenerate teju.csv yourself you will need to:
 
