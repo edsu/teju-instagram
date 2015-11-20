@@ -15,7 +15,7 @@ If you want to regenerate teju.csv yourself you will need to:
 
 * install [Node]
 * install [Python]
-* `npm install`
+* `npm install instagram-screen-scrape`
 * `node_modules/instagram-screen-scrape/bin/index.js --username _tejucole > teju.json` 
 * `python json2csv.py`
 
