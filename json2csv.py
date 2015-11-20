@@ -7,6 +7,7 @@ import time
 
 
 out = csv.writer(open("teju.csv", "w"))
+out.writerow(['url', 'type', 'created', 'image', 'likes', 'comments', 'hashtags', 'text'])
 
 for post in json.load(open('teju.json')):
     p = post.get
