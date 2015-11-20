@@ -1,8 +1,8 @@
 # Teju Cole Instagram Analysis
 
-This is a small data curation work to collect information about Teju Cole's 
-public posts on Instagram and make them available as a CSV that can be 
-loaded into a spreadsheet for analysis.
+This is a small bit of data curation work to collect information about Teju 
+Cole's public posts on Instagram and make them available as a CSV that can 
+be loaded into a spreadsheet for analysis.
 
 ## Analysis
 
